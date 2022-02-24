@@ -11,6 +11,7 @@
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <label>mytestapp</label>
     <navType>Standard</navType>
+    <tabs>Search_Business</tabs>
     <tabs>standard-Account</tabs>
     <tabs>standard-Lead</tabs>
     <tabs>standard-Opportunity</tabs>
